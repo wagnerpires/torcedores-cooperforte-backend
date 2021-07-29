@@ -2,7 +2,7 @@
 
 ## Para executar o projeto
 
-### mvn clean install -DskipTests=true`
+### mvn clean install -DskipTests=true
 ### cd target
 ### javar -jar cooperforte-service-0.0.1-SNAPSHOT.jar
 
