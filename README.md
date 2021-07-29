@@ -40,4 +40,4 @@ github: https://github.com/wagnerpires/torcedores-cooperforte-frontend
 * Material ui (Ui Framework)
 * Via Cep (API)
 * JUnit 5
-* Kafka (mock)
+* Apache Kafka (mock)
