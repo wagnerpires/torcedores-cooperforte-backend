@@ -33,10 +33,11 @@ github: https://github.com/wagnerpires/torcedores-cooperforte-frontend
 * Java 11
 * React
 * Formik para gerenciar formulários
-* DockerFile (Docker)
+* Docker
 * H2 Database
 * Maven
 * Ecossistema Spring: Jpa, SpringWeb, SpringDevTools, SpringSecurity
 * Material ui (Ui Framework)
 * Via Cep (API)
-* JUnit
+* JUnit 5
+* Kafka (mock)
